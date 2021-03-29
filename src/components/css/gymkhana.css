@@ -1,0 +1,9 @@
+.council-heading {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.council-club {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}

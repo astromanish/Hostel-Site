@@ -1,0 +1,18 @@
+.feedback-form {
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.feedback-inputs {
+  grid-column: 1/4;
+  padding-bottom: 40px;
+}
+.feedback-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.bug {
+  font-size: 90%;
+  color: #5c5c5c;
+}
